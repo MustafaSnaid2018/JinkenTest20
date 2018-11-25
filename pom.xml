@@ -8,7 +8,7 @@
   <artifactId>mavenTest</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>com.example.tests</name>
+<name>mavenTest</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
